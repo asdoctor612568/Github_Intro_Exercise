@@ -4,4 +4,9 @@ Section EF-5L
 Name				Student Number
 
 Fermin Roberto G. Lapitan	xxxx-40281
+<<<<<<< HEAD
 Amherstia S. Doctor			2015-06411
+=======
+Clarisse Sydney Cortez		2015-0091
+John Dewey B. Legaspi           2015-08799
+>>>>>>> a33d33b6eba4eb66cffdbdc1644edff16c01810a
